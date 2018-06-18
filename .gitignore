@@ -4,6 +4,8 @@
 ### C++ ###
 # Prerequisites
 *.d
+*.project
+*.cproject
 
 # Compiled Object files
 *.slo
@@ -36,3 +38,6 @@
 *.app
 
 # End of https://www.gitignore.io/api/c++
+
+
+*/Debug/*
